@@ -1,3 +1,4 @@
+with "../dbus.gpr";
 project Dbus.Test is
 
    for Main use ("dbus-test-main.adb");

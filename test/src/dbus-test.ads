@@ -1,3 +1,3 @@
-package Dbus is
+package Dbus.Test is
 
-end Dbus;
+end Dbus.Test;
